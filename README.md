@@ -12,5 +12,5 @@
 
 ### Ссылка на проект
 
-* [Ссылка на проект  на GitHub Pages][(https://github.com/Nadezhda-Obraztsova/russian-travel.git)]
+* [Ссылка на проект  на GitHub Pages](https://github.com/Nadezhda-Obraztsova/russian-travel.git)
 
